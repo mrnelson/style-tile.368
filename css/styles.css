@@ -3,13 +3,34 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: lightgreen;
+}
+.color-2 {
+    background: lightblue;
+}
+.color-3 {
+    background: pink;
+}
 
 
 /* Textures or Patterns*/
 
+.pattern-1 {
+    background: url('../img/symphony.png');
+}
 
+.pattern-2 {
+    background: url('../img/symphony.png');
+}
+
+.pattern-3 {
+    background: url('../img/symphony.png');
+}
 /* Imagery */
-
+img {
+    
+}
 
 /* Icons */
 
